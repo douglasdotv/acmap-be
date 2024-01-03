@@ -1,0 +1,12 @@
+# Maven
+target/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Other common ignore files
+*.log
